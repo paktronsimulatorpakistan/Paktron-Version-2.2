@@ -220,9 +220,27 @@ print(result.summary())
 
 ---
 
-## 📜 License
+📜 License
 
-MIT License — free to use, modify, and distribute.
+© 2026 CETQAP All rights reserved.
+
+This project is publicly visible for educational and demonstration purposes only.
+
+You are allowed to:
+View the project
+Learn from the concepts
+Use it for personal study
+
+You are NOT allowed to:
+Copy or replicate the framework
+Reproduce the code or architecture
+Redistribute or sell this project
+Use it to create similar competing systems
+
+For permissions, collaborations, or commercial use, contact the author. info@thecetqap.com 
+any plagarism found shall be dealt according to the country law exhibited 
+
+Note: Unauthorized copying or replication of this framework is strictly prohibited.
 
 ---
 
